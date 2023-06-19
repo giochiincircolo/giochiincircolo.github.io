@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/fra/gic/sitogiochiincircolo",
+	"sourceRoot": "/home/fra/gic/giochiincircolo.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
