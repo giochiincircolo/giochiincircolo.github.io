@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Giochi In Circolo</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Giochi In Circolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 19 Jun 2023 01:09:53 +0200</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Versogliottanda</title>
+      <link>http://example.org/post/versogliottanda/</link>
+      <pubDate>Mon, 19 Jun 2023 01:09:53 +0200</pubDate>
+      
+      <guid>http://example.org/post/versogliottanda/</guid>
+      <description>Abbiamo recentemente battuto il record di presenze nella serata del martedi&amp;rsquo;. Oltre 50 partecipanti che si riempivano di giochi
+bada quanti</description>
+    </item>
+    
+    <item>
+      <title>IdeaG</title>
+      <link>http://example.org/post/ideag/</link>
+      <pubDate>Mon, 19 Jun 2023 01:04:53 +0200</pubDate>
+      
+      <guid>http://example.org/post/ideag/</guid>
+      <description>Seconda edizione di IdeaG Pisa stata un successo oserei dire incredibile</description>
+    </item>
+    
+  </channel>
+</rss>

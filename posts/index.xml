@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Giochi In Circolo</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Giochi In Circolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 19 Jun 2023 00:14:51 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jesah</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 19 Jun 2023 00:14:51 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>dio cane il markdown - uno - due
+LA MADONNA MAIALAH</description>
+    </item>
+    
+  </channel>
+</rss>
