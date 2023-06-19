@@ -11,6 +11,6 @@ Le migliori foto delle nostre serate per voi!
 
 {{< figure src="/images/heat.jpg" title="Heat, la moda del momento" >}}
 
-{{< figure src="/images/gioco" title="ma siamo belli o no?!" >}}
+{{< figure src="/images/gioco.jpg" title="ma siamo belli o no?!" >}}
 
 {{< figure src="/images/scythe.jpg" title="Il gioco preferito del PRES" >}}
