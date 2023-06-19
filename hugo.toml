@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'it'
+title = 'Giochi In Circolo'
+site_logo='images/logo.jpg'
+theme = 'ananke'
