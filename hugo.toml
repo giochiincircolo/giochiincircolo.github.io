@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://giochiincircolo.github.io' 
 languageCode = 'it'
 title = 'Giochi In Circolo'
 site_logo='images/logo.jpg'
